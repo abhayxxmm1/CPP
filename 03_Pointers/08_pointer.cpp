@@ -8,7 +8,9 @@ int main(){
     int *p;
     p=&a; //! &a means the address of a
 
-    cout << a << endl;
+    cout << a  << endl;
+    cout << a  << endl;
+    cout << a  << endl;
     printf("using pointer de-refrencing %d ", *p ); // *p means go to he address and take the value
     //!           de-refrencing👆
 
