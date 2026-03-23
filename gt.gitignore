@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow only .cpp files
+!*.cpp
+!*.c++
+
+*.o
+*.out
+*.exe
+.vscode/
+
