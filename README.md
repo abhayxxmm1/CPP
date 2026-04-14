@@ -1,4 +1,4 @@
-# C-programming
+# C++
 git commit -m ""
 git log 
 git status
