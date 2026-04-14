@@ -17,7 +17,7 @@ int main(){
     // this is in c
     p = (struct Rectangle *)malloc(sizeof(struct Rectangle)); //! dynamiclly allocating memory for structure
 
-    // this is in c
+    // this is in c++
     p= new Rectangle;   // creates rectangle object in heap
 
     p->height=600; //! assigning value to structure members using pointer
